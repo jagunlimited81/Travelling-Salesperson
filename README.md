@@ -4,10 +4,12 @@ These python3 files generate a .gif file in the directory they were run in.
 
 ## Nearest Neighbor
 Simply searches all nodes for the closest node, then jumps to it.
+
 ![image](https://github.com/jagunlimited81/Travelling-Salesperson/blob/main/nearest-neighbor.gif)
 
 ## Random Insertion
 Randomly selects a node then finds the best fit neighbors.
+
 ![image](https://github.com/jagunlimited81/Travelling-Salesperson/blob/main/random-insertion.gif)
 
 ## How to run these scripts
